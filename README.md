@@ -2,16 +2,16 @@
 
 Este repositorio contiene conceptos fundamentales sobre circuitos eléctricos, incluyendo:
 
-Magnitudes físicas básicas
-Leyes fundamentales
-Tipos de conexiones
-Análisis de resistores y capacitores
-Implementación en Java
+-Magnitudes físicas básicas
+-Leyes fundamentales
+-Tipos de conexiones
+-Análisis de resistores y capacitores
+-Implementación en Java
 
 👥 Integrantes
-*Carlos Alfredo Abea Martinez*
-Andrea Johanna Duarte Guerrero
-Solieth Valentina Trejos Perez
+-Carlos Alfredo Abea Martinez
+-Andrea Johanna Duarte Guerrero
+-Solieth Valentina Trejos Perez
 
 📊 Magnitudes Eléctricas
 
@@ -24,18 +24,18 @@ Solieth Valentina Trejos Perez
 | Potencia                | Watt             | W           |
 
 ⚖️ Convención de Signos
-La corriente que entra a un elemento se considera positiva (+)
-La corriente que sale se considera negativa (−)
+-La corriente que entra a un elemento se considera positiva (+)
+-La corriente que sale se considera negativa (−)
 
 ⚡ Ley de Ohm
 
-La ley fundamental de los circuitos eléctricos establece:
-V = I * R
-Donde:
+-La ley fundamental de los circuitos eléctricos establece:
+-V = I * R
+-Donde:
 
-V = Voltaje (Voltios)
-I = Corriente (Amperios)
-R = Resistencia (Ohmios)
+-V = Voltaje (Voltios)
+-I = Corriente (Amperios)
+-R = Resistencia (Ohmios)
 
 📌 Se aplica principalmente a resistores.
 

@@ -7,8 +7,9 @@ Leyes fundamentales
 Tipos de conexiones
 Análisis de resistores y capacitores
 Implementación en Java
+
 👥 Integrantes
-Carlos Alfredo Abea Martinez
+*Carlos Alfredo Abea Martinez*
 Andrea Johanna Duarte Guerrero
 Solieth Valentina Trejos Perez
 

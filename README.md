@@ -1,3 +1,9 @@
+
+   Integrantes
+   Carlos Alfredo Abea Martinez
+   Andrea Johanna Duarte Guerrero
+   Solieth Valentina Trejos Perez
+
 ⚡ Circuitos de Corriente Eléctrica
 
 Este repositorio contiene conceptos básicos sobre circuitos eléctricos, incluyendo magnitudes físicas, leyes fundamentales y tipos de conexiones.
